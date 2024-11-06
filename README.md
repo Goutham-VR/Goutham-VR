@@ -4,41 +4,22 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ## 💻 Tech Stack:
-<style>
-.icon-container {
-    width: 60px; /* Ensures a square container */
-    height: 60px;
-    background-color: #f0f0f0; /* Change this to any color you prefer */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 10px; /* Optional, for rounded corners */
-    margin: 5px; /* Adds spacing between icons */
-}
-.icon-container img {
-    width: 40px;
-    height: 40px;
-}
-</style>
-
 <p align="left">
-    <a href="https://developer.nvidia.com/cuda-zone" class="icon-container"> 
-        <img src="https://img.icons8.com/?size=100&id=yqf95864UzeQ&format=png&color=000000" alt="CUDA"/>
+    <a href="https://developer.nvidia.com/cuda-zone" style="display: inline-flex; align-items: center; justify-content: center; width: 60px; height: 60px; background-color: #f0f0f0; border-radius: 10px; margin: 5px;">
+        <img src="https://img.icons8.com/?size=100&id=yqf95864UzeQ&format=png&color=000000" alt="CUDA" width="40" height="40"/>
     </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" class="icon-container"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino"/>
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="display: inline-flex; align-items: center; justify-content: center; width: 60px; height: 60px; background-color: #f0f0f0; border-radius: 10px; margin: 5px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
     </a>
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer" class="icon-container"> 
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender"/>
+    <a href="https://www.blender.org/" target="_blank" rel="noreferrer" style="display: inline-flex; align-items: center; justify-content: center; width: 60px; height: 60px; background-color: #f0f0f0; border-radius: 10px; margin: 5px;">
+        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
     </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" class="icon-container"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"/>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="display: inline-flex; align-items: center; justify-content: center; width: 60px; height: 60px; background-color: #f0f0f0; border-radius: 10px; margin: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" class="icon-container"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"/>
-    </a>
-    <!-- Add other icons similarly -->
-</p>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="display: inline-flex; align-items: center; justify-content: center; width: 60px; height: 60px; background-color: #f0f0f0; border-radius: 10px; margin: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    </a></p>
 
 
 ## 📊 GitHub Stats:
