@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm GOUTHAM V.R</h1>
 <h3 align="center">A Passionate Machine Learning Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goutham-vr&label=Profile%20views&color=0e75b6&style=flat" alt="goutham-vr" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
