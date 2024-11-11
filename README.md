@@ -33,10 +33,30 @@
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
 </p>
 
+## Contribution:
+![Snake animation](https://github.com/Goutham-VR/Goutham-VR/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Goutham-VR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Goutham-VR&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Goutham-VR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🦾 Contributioins:
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    ![Snake animation](https://github.com/Goutham-VR/Goutham-VR/blob/output/github-contribution-grid-snake.svg)
+  />
+</picture>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Goutham-VR&theme=synthwave&no-frame=true&no-bg=true&margin-w=4)
