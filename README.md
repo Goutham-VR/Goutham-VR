@@ -1,7 +1,40 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi Its Me GOUTHAM V.R</h1>
 <h3 align="center">A Passionate Machine Learning Developer</h3>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Goutham-VR&color=blueviolet"/> </p>
+<img align="right" alt="Coding" width="380" height="230px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on **Vexa Web App**
+
+- 🌱 I’m currently learning **DevOps**
+
+- 💬 Ask me about **Android , MEARN**
+
+- 📫 How to reach me **rishavchanda0@gmail.com**
+
+- 📫 How to reach me **rishavchanda0@gmail.com**
+  
+- 📫 How to reach me **rishavchanda0@gmail.com**
+
+<br>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="20" width="20" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="20" width="20" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="20" width="20" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="20" width="20" /></a>
+</p>
+
+
+
+
+
+
+
 
 ## 💻 Tech Stack:
 <p align="left"> <a href="https://developer.nvidia.com/cuda-zone"> <img src="https://img.icons8.com/?size=100&id=yqf95864UzeQ&format=png&color=000000" alt="CUDA" width="40" height="40"/> </a>
@@ -36,9 +69,11 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Goutham-VR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Goutham-VR&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Goutham-VR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goutham-VR&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Goutham-VR" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Goutham-VR&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Goutham-VR" /></p>
+
 
 ## 🦾 Contributioins:
 <picture>
