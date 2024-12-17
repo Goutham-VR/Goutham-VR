@@ -1,5 +1,5 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi Its Me GOUTHAM V.R</h1>
+<hr>
 <h3 align="center">A Passionate Machine Learning Developer</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Goutham-VR&color=blueviolet"/> </p>
@@ -93,7 +93,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Goutham-VR&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Goutham-VR&icon=2&color=3)](https://visitcount.itsvg.in)
-
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Goutham-VR) 
