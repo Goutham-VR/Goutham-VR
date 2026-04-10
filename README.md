@@ -108,9 +108,6 @@ Hi there! I'm **Goutham V R**, a passionate Machine Learning Developer who loves
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Goutham-VR&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=FFFFFF" />
 </p>
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goutham-VR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Goutham-VR&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00F7FF&line=00F7FF&point=FFFFFF" />
