@@ -62,7 +62,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Goutham-VR&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Goutham-VR&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
