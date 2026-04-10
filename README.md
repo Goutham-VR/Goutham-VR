@@ -7,13 +7,12 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile-Views-blueviolet?style=for-the-badge"/>
   <img src="https://komarev.com/ghpvc/?username=Goutham-VR&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧊 Glass Profile Card
+## 🧊 Glass Profile
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Goutham-VR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
@@ -21,34 +20,30 @@
 
 ---
 
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
 ## 🧠 About Me
 
-```yaml
 Name: Goutham V R
 Role: Machine Learning Developer
-Focus: AI Systems + Deep Learning
-Learning: NLP | Advanced AI | Real-time ML
-Fun: "Turning Ideas into Intelligence 🤖"
+Focus: AI + Deep Learning + Real-world Systems
+Learning: NLP | Advanced AI | Intelligent Apps
+Fun Fact: "Turning Coffee ☕ into AI Models 🤖"
 
 ---
 
-## 🌍 Connect With Me
-
-<p align="center">
-<a href="#"><img src="https://img.icons8.com/color/48/twitter--v1.png"/></a>
-<a href="https://linkedin.com"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/instagram-new.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/youtube-play.png"/></a>
-</p>
+🌐 Connect With Me
+<p align="center"> <a href="#"><img src="https://img.shields.io/badge/Twitter-00F7FF?style=for-the-badge&logo=twitter&logoColor=black"/></a> <a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/></a> <a href="#"><img src="https://img.shields.io/badge/Instagram-00F7FF?style=for-the-badge&logo=instagram&logoColor=black"/></a> <a href="#"><img src="https://img.shields.io/badge/YouTube-00F7FF?style=for-the-badge&logo=youtube&logoColor=black"/></a> </p>
 
 ---
 
-## ⚡ Tech Stack
+🏆 Coding Profiles
+<p align="center"> <a href="https://leetcode.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="https://www.hackerrank.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/> </a> <a href="https://www.codechef.com/users/YOUR_USERNAME"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/> </a> <a href="https://codeforces.com/profile/YOUR_USERNAME"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/> </a> </p>
 
-### 💻 Languages & Frameworks
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,php,django,html,css" />
-</p>
+---
+
+⚡ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,c,php,django,html,css,js"/> <br> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,linux,git,mysql,blender,unity"/> </p>
 
 ### 🧠 AI / ML / Data Science
 <p align="center">
@@ -64,11 +59,13 @@ Fun: "Turning Ideas into Intelligence 🤖"
 
 ---
 
-## 📊 GitHub Analytics
+🚀 Featured Projects
+<p align="center"> <a href="https://github.com/Goutham-VR/Driver-Drowsiness-Detection"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Goutham-VR&repo=Driver-Drowsiness-Detection&theme=tokyonight&hide_border=true"/> </a> <a href="https://github.com/Goutham-VR/Face-Recognition-Attendance-System"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Goutham-VR&repo=Face-Recognition-Attendance-System&theme=tokyonight&hide_border=true"/> </a> <a href="https://github.com/Goutham-VR/Disease-Prediction-System"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Goutham-VR&repo=Disease-Prediction-System&theme=tokyonight&hide_border=true"/> </a> <a href="https://github.com/Goutham-VR/AI-Cart-Recommender"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Goutham-VR&repo=AI-Cart-Recommender&theme=tokyonight&hide_border=true"/> </a> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Goutham-VR&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+---
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Goutham-VR&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goutham-VR&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Goutham-VR&theme=react-dark"/> </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goutham-VR&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -76,19 +73,13 @@ Fun: "Turning Ideas into Intelligence 🤖"
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Goutham-VR/Goutham-VR/output/github-contribution-grid-snake-dark.svg" />
-</p>
+🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/Goutham-VR/Goutham-VR/output/github-contribution-grid-snake-dark.svg"/> </p>
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Goutham-VR&theme=radical&no-frame=true&margin-w=5"/>
-</p>
+🏆 Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Goutham-VR&theme=matrix&no-frame=true&margin-w=5"/> </p>
 
 ---
 
@@ -100,21 +91,13 @@ Fun: "Turning Ideas into Intelligence 🤖"
 
 ---
 
-## 💰 Support Me
-
-<p align="center">
-<a href="https://buymeacoffee.com/Goutham-VR">
-<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee"/>
-</a>
-</p>
+💰 Support Me
+<p align="center"> <a href="https://buymeacoffee.com/Goutham-VR"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-00F7FF?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/> </a> </p>
 
 ---
 
-## ✨ Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+✨ Quote
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p>
 
 ---
 
