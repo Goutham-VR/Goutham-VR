@@ -1,28 +1,34 @@
-<h1 align="center">🔥 Hi, I'm Goutham V.R 🔥</h1>
-<h3 align="center">🚀 Machine Learning Developer | AI Enthusiast | Deep Learning Explorer</h3>
+<h1 align="center">⚡ GOUTHAM V.R ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Developer;AI+%7C+Deep+Learning+Engineer;Django+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Developer;AI+Engineer;Deep+Learning+Enthusiast;Building+Smart+Systems+🚀"/>
 </p>
 
 ---
 
-## 🌐 Profile Views
 <p align="center">
+  <img src="https://img.shields.io/badge/Profile-Views-blueviolet?style=for-the-badge"/>
   <img src="https://komarev.com/ghpvc/?username=Goutham-VR&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+## 🧊 Glass Profile Card
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Goutham-VR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
+</p>
+
+---
 
 ## 🧠 About Me
 
-- 🔭 Currently working on **Advanced ML & AI Projects**
-- 🌱 Learning **Deep Learning, NLP & AI Systems**
-- 💡 Interested in **Real-world AI Applications**
-- 💬 Ask me about **Machine Learning, AI, Django**
-- ⚡ Fun fact: *I turn coffee ☕ into models 🤖*
+```yaml
+Name: Goutham V R
+Role: Machine Learning Developer
+Focus: AI Systems + Deep Learning
+Learning: NLP | Advanced AI | Real-time ML
+Fun: "Turning Ideas into Intelligence 🤖"
 
 ---
 
