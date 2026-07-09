@@ -83,25 +83,6 @@ Hi there! I'm **Goutham V R**, a passionate Machine Learning Developer who loves
 
 ---
 
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Goutham-VR/Driver-Drowsiness-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Goutham-VR&repo=Driver-Drowsiness-Detection&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Goutham-VR/Face-Recognition-Attendance-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Goutham-VR&repo=Face-Recognition-Attendance-System&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Goutham-VR/Disease-Prediction-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Goutham-VR&repo=Disease-Prediction-System&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Goutham-VR/AI-Cart-Recommender">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Goutham-VR&repo=AI-Cart-Recommender&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Analytics
 
 <p align="center">
