@@ -115,14 +115,6 @@ Hi there! I'm **Goutham V R**, a passionate Machine Learning Developer who loves
 
 ---
 
-### 🐍 Contribution Snake Game
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Goutham-VR/Goutham-VR/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
