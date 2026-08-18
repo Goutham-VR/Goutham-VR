@@ -257,7 +257,7 @@ Intelligent security platform for URL scanning, domain analysis & intrusion dete
 3. It will auto-generate output/github-contribution-grid-snake.svg
 -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/Goutham-VR/Goutham-VR/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/Goutham-VR/Goutham-VR/gh-pages/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 </div>
 
 <br/>
