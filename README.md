@@ -133,8 +133,8 @@ fun_fact: "I train models by day and fine-tune prompts by night 🌙"
 ### 🎨 Creative Tools
 <p align="left">
 <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
-<img src="https://img.shields.io/badge/-After%20Effects-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Premiere%20Pro-8A2BE2?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+<img src="https://img.shields.io/badge/-After%20Effects-6E56CF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
 </p>
 
 <br/>
