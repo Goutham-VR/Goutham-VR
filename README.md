@@ -253,12 +253,11 @@ Real-time communication platform for **hearing-impaired users**, powered by cust
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Goutham-VR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Goutham-VR&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" width="49%"/>
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-lang.svg" alt="Top Languages" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goutham-VR&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Goutham-VR&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+<img src="./profile-summary-card-output/tokyonight/1-repo-commit-lang.svg" alt="Languages per Repo" width="49%"/>
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="49%"/>
 
 </div>
 
