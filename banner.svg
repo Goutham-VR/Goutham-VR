@@ -1,322 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Goutham Retheesh - Software Developer | AI &amp; ML Engineer" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpkNjY0NjIyZi0zZjhhLTQ3OTMtYWViNC0xMWQxODZmYjAxNzkAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaFIIvdFNIhqhm3FJNGNq5XMAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo1OWI3NzA0Zi0wOWI5LTRkM2UtOWUyYi0wOGYwOTRhZmUwODNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoVisF+8su7aDg0sMIPProvQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggQRbsMqLufslebx4bXWogf2CI1QRm1Kc+qCAtIJaJ3SykZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaB+E6Mxbhtc+3jGzDfI3ST4AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCsTH7o/mLMaVhDXncTRa7vy4nVBEv39ScDL+uW6RzeI2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjtZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmQ2NjQ2MjJmLTNmOGEtNDc5My1hZWI0LTExZDE4NmZiMDE3OS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjg4NzMzOTBhLTcyMWQtNDk1YS04NDE2LTVjZDU3NWFjMzNkMXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBBFuwyou5+yV5vHhtdaiB/YIjVBGbUpz6oIC0glondLKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg8+/voAtNMsF41JjtxcdPxK86hjea0V6020im9fCGoD2iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggMHbSQvbP8dKLuIhd5BUw5oy35GwZ91IkOfb0iob0c950Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQFEdSF+whyxct+akEQ9+Dofzy0pp/knthR25HqOBb9ZQLU8Ytl5w1jdGpbTU9IeRuzAoq1WRWljaMLR4RHaOV2g=</c2pa:manifest></metadata>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1020"/>
-      <stop offset="0.55" stop-color="#151a45"/>
-      <stop offset="1" stop-color="#3b3fb8"/>
-    </linearGradient>
-    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#ffffff"/>
-      <stop offset="0.5" stop-color="#c7d2fe"/>
-      <stop offset="1" stop-color="#67e8f9"/>
-    </linearGradient>
-    <radialGradient id="hx" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#a5b4fc" stop-opacity="0.95"/>
-      <stop offset="1" stop-color="#6366f1" stop-opacity="0.25"/>
-    </radialGradient>
-    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#fff" stop-opacity="0.10"/>
-      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
-    </linearGradient>
-    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
-      <feGaussianBlur stdDeviation="4" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="tglow" x="-20%" y="-50%" width="140%" height="200%">
-      <feGaussianBlur stdDeviation="5" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <clipPath id="clip"><rect width="1200" height="220"/></clipPath>
-    <style>
-      .grid { fill: none; stroke: #6366f1; stroke-opacity: 0.18; stroke-width: 1; }
-      .pulse { fill: url(#hx); stroke: #c7d2fe; stroke-width: 1.2; opacity: 0; animation: pulse 4s ease-in-out infinite; }
-      .float { fill: none; stroke: #67e8f9; stroke-width: 1.5; opacity: .5; animation: drift 9s ease-in-out infinite; }
-      .title { animation: rise 1.4s ease-out both; }
-      .sub { animation: rise 1.4s .4s ease-out both; }
-      .bar { animation: grow 1.6s .8s ease-out both; transform-origin: 600px 150px; }
-      .sweep { animation: sweep 7s linear infinite; }
-      @keyframes pulse { 0%,100% { opacity: 0; } 50% { opacity: .9; } }
-      @keyframes drift { 0%,100% { transform: translateY(0); opacity:.25; } 50% { transform: translateY(-14px); opacity:.7; } }
-      @keyframes rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
-      @keyframes grow { from { transform: scaleX(0); opacity: 0; } to { transform: scaleX(1); opacity: 1; } }
-      @keyframes sweep { from { transform: translateX(-400px); } to { transform: translateX(1600px); } }
-    </style>
-  </defs>
-  <g clip-path="url(#clip)">
-    <rect width="1200" height="220" fill="url(#bg)"/>
-    <g>
-      <polygon class="grid" points="19.5,-11.2 19.5,11.2 0.0,22.5 -19.5,11.2 -19.5,-11.3 -0.0,-22.5"/>
-      <polygon class="grid" points="61.1,-11.2 61.1,11.2 41.6,22.5 22.1,11.2 22.1,-11.3 41.6,-22.5"/>
-      <polygon class="grid" points="102.6,-11.2 102.6,11.2 83.1,22.5 63.7,11.2 63.7,-11.3 83.1,-22.5"/>
-      <polygon class="grid" points="144.2,-11.2 144.2,11.2 124.7,22.5 105.2,11.2 105.2,-11.3 124.7,-22.5"/>
-      <polygon class="grid" points="185.8,-11.2 185.8,11.2 166.3,22.5 146.8,11.2 146.8,-11.3 166.3,-22.5"/>
-      <polygon class="grid" points="227.3,-11.2 227.3,11.2 207.8,22.5 188.4,11.2 188.4,-11.3 207.8,-22.5"/>
-      <polygon class="grid" points="268.9,-11.2 268.9,11.2 249.4,22.5 229.9,11.2 229.9,-11.3 249.4,-22.5"/>
-      <polygon class="grid" points="310.5,-11.2 310.5,11.2 291.0,22.5 271.5,11.2 271.5,-11.3 291.0,-22.5"/>
-      <polygon class="grid" points="352.0,-11.2 352.0,11.2 332.6,22.5 313.1,11.2 313.1,-11.3 332.6,-22.5"/>
-      <polygon class="grid" points="393.6,-11.2 393.6,11.2 374.1,22.5 354.6,11.2 354.6,-11.3 374.1,-22.5"/>
-      <polygon class="grid" points="435.2,-11.2 435.2,11.2 415.7,22.5 396.2,11.2 396.2,-11.3 415.7,-22.5"/>
-      <polygon class="grid" points="476.7,-11.2 476.7,11.2 457.3,22.5 437.8,11.2 437.8,-11.3 457.3,-22.5"/>
-      <polygon class="grid" points="518.3,-11.2 518.3,11.2 498.8,22.5 479.3,11.2 479.3,-11.3 498.8,-22.5"/>
-      <polygon class="grid" points="559.9,-11.2 559.9,11.2 540.4,22.5 520.9,11.2 520.9,-11.3 540.4,-22.5"/>
-      <polygon class="grid" points="601.5,-11.2 601.5,11.2 582.0,22.5 562.5,11.2 562.5,-11.3 582.0,-22.5"/>
-      <polygon class="grid" points="643.0,-11.2 643.0,11.2 623.5,22.5 604.1,11.2 604.1,-11.3 623.5,-22.5"/>
-      <polygon class="grid" points="684.6,-11.2 684.6,11.2 665.1,22.5 645.6,11.2 645.6,-11.3 665.1,-22.5"/>
-      <polygon class="grid" points="726.2,-11.2 726.2,11.2 706.7,22.5 687.2,11.2 687.2,-11.3 706.7,-22.5"/>
-      <polygon class="grid" points="767.7,-11.2 767.7,11.2 748.2,22.5 728.8,11.2 728.8,-11.3 748.2,-22.5"/>
-      <polygon class="grid" points="809.3,-11.2 809.3,11.2 789.8,22.5 770.3,11.2 770.3,-11.3 789.8,-22.5"/>
-      <polygon class="grid" points="850.9,-11.2 850.9,11.2 831.4,22.5 811.9,11.2 811.9,-11.3 831.4,-22.5"/>
-      <polygon class="grid" points="892.4,-11.2 892.4,11.2 873.0,22.5 853.5,11.2 853.5,-11.3 873.0,-22.5"/>
-      <polygon class="grid" points="934.0,-11.2 934.0,11.2 914.5,22.5 895.0,11.2 895.0,-11.3 914.5,-22.5"/>
-      <polygon class="grid" points="975.6,-11.2 975.6,11.2 956.1,22.5 936.6,11.2 936.6,-11.3 956.1,-22.5"/>
-      <polygon class="grid" points="1017.1,-11.2 1017.1,11.2 997.7,22.5 978.2,11.2 978.2,-11.3 997.7,-22.5"/>
-      <polygon class="grid" points="1058.7,-11.2 1058.7,11.2 1039.2,22.5 1019.7,11.2 1019.7,-11.3 1039.2,-22.5"/>
-      <polygon class="grid" points="1100.3,-11.2 1100.3,11.2 1080.8,22.5 1061.3,11.2 1061.3,-11.3 1080.8,-22.5"/>
-      <polygon class="grid" points="1141.9,-11.2 1141.9,11.2 1122.4,22.5 1102.9,11.2 1102.9,-11.3 1122.4,-22.5"/>
-      <polygon class="grid" points="1183.4,-11.2 1183.4,11.2 1163.9,22.5 1144.5,11.2 1144.5,-11.3 1163.9,-22.5"/>
-      <polygon class="grid" points="1225.0,-11.2 1225.0,11.2 1205.5,22.5 1186.0,11.2 1186.0,-11.3 1205.5,-22.5"/>
-      <polygon class="grid" points="40.3,24.8 40.3,47.2 20.8,58.5 1.3,47.2 1.3,24.8 20.8,13.5"/>
-      <polygon class="grid" points="81.8,24.8 81.8,47.2 62.4,58.5 42.9,47.2 42.9,24.8 62.4,13.5"/>
-      <polygon class="grid" points="123.4,24.8 123.4,47.2 103.9,58.5 84.4,47.2 84.4,24.8 103.9,13.5"/>
-      <polygon class="grid" points="165.0,24.8 165.0,47.2 145.5,58.5 126.0,47.2 126.0,24.8 145.5,13.5"/>
-      <polygon class="grid" points="206.5,24.8 206.5,47.2 187.1,58.5 167.6,47.2 167.6,24.8 187.1,13.5"/>
-      <polygon class="grid" points="248.1,24.8 248.1,47.2 228.6,58.5 209.1,47.2 209.1,24.8 228.6,13.5"/>
-      <polygon class="grid" points="289.7,24.8 289.7,47.2 270.2,58.5 250.7,47.2 250.7,24.8 270.2,13.5"/>
-      <polygon class="grid" points="331.3,24.8 331.3,47.2 311.8,58.5 292.3,47.2 292.3,24.8 311.8,13.5"/>
-      <polygon class="grid" points="372.8,24.8 372.8,47.2 353.3,58.5 333.9,47.2 333.9,24.8 353.3,13.5"/>
-      <polygon class="grid" points="414.4,24.8 414.4,47.2 394.9,58.5 375.4,47.2 375.4,24.8 394.9,13.5"/>
-      <polygon class="grid" points="456.0,24.8 456.0,47.2 436.5,58.5 417.0,47.2 417.0,24.8 436.5,13.5"/>
-      <polygon class="grid" points="497.5,24.8 497.5,47.2 478.0,58.5 458.6,47.2 458.6,24.8 478.0,13.5"/>
-      <polygon class="grid" points="539.1,24.8 539.1,47.2 519.6,58.5 500.1,47.2 500.1,24.8 519.6,13.5"/>
-      <polygon class="grid" points="580.7,24.8 580.7,47.2 561.2,58.5 541.7,47.2 541.7,24.8 561.2,13.5"/>
-      <polygon class="grid" points="622.2,24.8 622.2,47.2 602.8,58.5 583.3,47.2 583.3,24.8 602.8,13.5"/>
-      <polygon class="grid" points="663.8,24.8 663.8,47.2 644.3,58.5 624.8,47.2 624.8,24.8 644.3,13.5"/>
-      <polygon class="grid" points="705.4,24.8 705.4,47.2 685.9,58.5 666.4,47.2 666.4,24.8 685.9,13.5"/>
-      <polygon class="grid" points="746.9,24.8 746.9,47.2 727.5,58.5 708.0,47.2 708.0,24.8 727.5,13.5"/>
-      <polygon class="grid" points="788.5,24.8 788.5,47.2 769.0,58.5 749.5,47.2 749.5,24.8 769.0,13.5"/>
-      <polygon class="grid" points="830.1,24.8 830.1,47.2 810.6,58.5 791.1,47.2 791.1,24.8 810.6,13.5"/>
-      <polygon class="grid" points="871.7,24.8 871.7,47.2 852.2,58.5 832.7,47.2 832.7,24.8 852.2,13.5"/>
-      <polygon class="grid" points="913.2,24.8 913.2,47.2 893.7,58.5 874.3,47.2 874.3,24.8 893.7,13.5"/>
-      <polygon class="grid" points="954.8,24.8 954.8,47.2 935.3,58.5 915.8,47.2 915.8,24.8 935.3,13.5"/>
-      <polygon class="grid" points="996.4,24.8 996.4,47.2 976.9,58.5 957.4,47.2 957.4,24.8 976.9,13.5"/>
-      <polygon class="grid" points="1037.9,24.8 1037.9,47.2 1018.4,58.5 999.0,47.2 999.0,24.8 1018.4,13.5"/>
-      <polygon class="grid" points="1079.5,24.8 1079.5,47.2 1060.0,58.5 1040.5,47.2 1040.5,24.8 1060.0,13.5"/>
-      <polygon class="grid" points="1121.1,24.8 1121.1,47.2 1101.6,58.5 1082.1,47.2 1082.1,24.8 1101.6,13.5"/>
-      <polygon class="grid" points="1162.6,24.8 1162.6,47.2 1143.2,58.5 1123.7,47.2 1123.7,24.8 1143.2,13.5"/>
-      <polygon class="grid" points="1204.2,24.8 1204.2,47.2 1184.7,58.5 1165.2,47.2 1165.2,24.8 1184.7,13.5"/>
-      <polygon class="grid" points="1245.8,24.8 1245.8,47.2 1226.3,58.5 1206.8,47.2 1206.8,24.8 1226.3,13.5"/>
-      <polygon class="grid" points="19.5,60.8 19.5,83.2 0.0,94.5 -19.5,83.2 -19.5,60.8 -0.0,49.5"/>
-      <polygon class="grid" points="61.1,60.8 61.1,83.2 41.6,94.5 22.1,83.2 22.1,60.8 41.6,49.5"/>
-      <polygon class="grid" points="102.6,60.8 102.6,83.2 83.1,94.5 63.7,83.2 63.7,60.8 83.1,49.5"/>
-      <polygon class="grid" points="144.2,60.8 144.2,83.2 124.7,94.5 105.2,83.2 105.2,60.8 124.7,49.5"/>
-      <polygon class="grid" points="185.8,60.8 185.8,83.2 166.3,94.5 146.8,83.2 146.8,60.8 166.3,49.5"/>
-      <polygon class="grid" points="227.3,60.8 227.3,83.2 207.8,94.5 188.4,83.2 188.4,60.8 207.8,49.5"/>
-      <polygon class="grid" points="268.9,60.8 268.9,83.2 249.4,94.5 229.9,83.2 229.9,60.8 249.4,49.5"/>
-      <polygon class="grid" points="310.5,60.8 310.5,83.2 291.0,94.5 271.5,83.2 271.5,60.8 291.0,49.5"/>
-      <polygon class="grid" points="352.0,60.8 352.0,83.2 332.6,94.5 313.1,83.2 313.1,60.8 332.6,49.5"/>
-      <polygon class="grid" points="393.6,60.8 393.6,83.2 374.1,94.5 354.6,83.2 354.6,60.8 374.1,49.5"/>
-      <polygon class="grid" points="435.2,60.8 435.2,83.2 415.7,94.5 396.2,83.2 396.2,60.8 415.7,49.5"/>
-      <polygon class="grid" points="476.7,60.8 476.7,83.2 457.3,94.5 437.8,83.2 437.8,60.8 457.3,49.5"/>
-      <polygon class="grid" points="518.3,60.8 518.3,83.2 498.8,94.5 479.3,83.2 479.3,60.8 498.8,49.5"/>
-      <polygon class="grid" points="559.9,60.8 559.9,83.2 540.4,94.5 520.9,83.2 520.9,60.8 540.4,49.5"/>
-      <polygon class="grid" points="601.5,60.8 601.5,83.2 582.0,94.5 562.5,83.2 562.5,60.8 582.0,49.5"/>
-      <polygon class="grid" points="643.0,60.8 643.0,83.2 623.5,94.5 604.1,83.2 604.1,60.8 623.5,49.5"/>
-      <polygon class="grid" points="684.6,60.8 684.6,83.2 665.1,94.5 645.6,83.2 645.6,60.8 665.1,49.5"/>
-      <polygon class="grid" points="726.2,60.8 726.2,83.2 706.7,94.5 687.2,83.2 687.2,60.8 706.7,49.5"/>
-      <polygon class="grid" points="767.7,60.8 767.7,83.2 748.2,94.5 728.8,83.2 728.8,60.8 748.2,49.5"/>
-      <polygon class="grid" points="809.3,60.8 809.3,83.2 789.8,94.5 770.3,83.2 770.3,60.8 789.8,49.5"/>
-      <polygon class="grid" points="850.9,60.8 850.9,83.2 831.4,94.5 811.9,83.2 811.9,60.8 831.4,49.5"/>
-      <polygon class="grid" points="892.4,60.8 892.4,83.2 873.0,94.5 853.5,83.2 853.5,60.8 873.0,49.5"/>
-      <polygon class="grid" points="934.0,60.8 934.0,83.2 914.5,94.5 895.0,83.2 895.0,60.8 914.5,49.5"/>
-      <polygon class="grid" points="975.6,60.8 975.6,83.2 956.1,94.5 936.6,83.2 936.6,60.8 956.1,49.5"/>
-      <polygon class="grid" points="1017.1,60.8 1017.1,83.2 997.7,94.5 978.2,83.2 978.2,60.8 997.7,49.5"/>
-      <polygon class="grid" points="1058.7,60.8 1058.7,83.2 1039.2,94.5 1019.7,83.2 1019.7,60.8 1039.2,49.5"/>
-      <polygon class="grid" points="1100.3,60.8 1100.3,83.2 1080.8,94.5 1061.3,83.2 1061.3,60.8 1080.8,49.5"/>
-      <polygon class="grid" points="1141.9,60.8 1141.9,83.2 1122.4,94.5 1102.9,83.2 1102.9,60.8 1122.4,49.5"/>
-      <polygon class="grid" points="1183.4,60.8 1183.4,83.2 1163.9,94.5 1144.5,83.2 1144.5,60.8 1163.9,49.5"/>
-      <polygon class="grid" points="1225.0,60.8 1225.0,83.2 1205.5,94.5 1186.0,83.2 1186.0,60.8 1205.5,49.5"/>
-      <polygon class="grid" points="40.3,96.8 40.3,119.2 20.8,130.5 1.3,119.2 1.3,96.8 20.8,85.5"/>
-      <polygon class="grid" points="81.8,96.8 81.8,119.2 62.4,130.5 42.9,119.2 42.9,96.8 62.4,85.5"/>
-      <polygon class="grid" points="123.4,96.8 123.4,119.2 103.9,130.5 84.4,119.2 84.4,96.8 103.9,85.5"/>
-      <polygon class="grid" points="165.0,96.8 165.0,119.2 145.5,130.5 126.0,119.2 126.0,96.8 145.5,85.5"/>
-      <polygon class="grid" points="206.5,96.8 206.5,119.2 187.1,130.5 167.6,119.2 167.6,96.8 187.1,85.5"/>
-      <polygon class="grid" points="248.1,96.8 248.1,119.2 228.6,130.5 209.1,119.2 209.1,96.8 228.6,85.5"/>
-      <polygon class="grid" points="289.7,96.8 289.7,119.2 270.2,130.5 250.7,119.2 250.7,96.8 270.2,85.5"/>
-      <polygon class="grid" points="331.3,96.8 331.3,119.2 311.8,130.5 292.3,119.2 292.3,96.8 311.8,85.5"/>
-      <polygon class="grid" points="372.8,96.8 372.8,119.2 353.3,130.5 333.9,119.2 333.9,96.8 353.3,85.5"/>
-      <polygon class="grid" points="414.4,96.8 414.4,119.2 394.9,130.5 375.4,119.2 375.4,96.8 394.9,85.5"/>
-      <polygon class="grid" points="456.0,96.8 456.0,119.2 436.5,130.5 417.0,119.2 417.0,96.8 436.5,85.5"/>
-      <polygon class="grid" points="497.5,96.8 497.5,119.2 478.0,130.5 458.6,119.2 458.6,96.8 478.0,85.5"/>
-      <polygon class="grid" points="539.1,96.8 539.1,119.2 519.6,130.5 500.1,119.2 500.1,96.8 519.6,85.5"/>
-      <polygon class="grid" points="580.7,96.8 580.7,119.2 561.2,130.5 541.7,119.2 541.7,96.8 561.2,85.5"/>
-      <polygon class="grid" points="622.2,96.8 622.2,119.2 602.8,130.5 583.3,119.2 583.3,96.8 602.8,85.5"/>
-      <polygon class="grid" points="663.8,96.8 663.8,119.2 644.3,130.5 624.8,119.2 624.8,96.8 644.3,85.5"/>
-      <polygon class="grid" points="705.4,96.8 705.4,119.2 685.9,130.5 666.4,119.2 666.4,96.8 685.9,85.5"/>
-      <polygon class="grid" points="746.9,96.8 746.9,119.2 727.5,130.5 708.0,119.2 708.0,96.8 727.5,85.5"/>
-      <polygon class="grid" points="788.5,96.8 788.5,119.2 769.0,130.5 749.5,119.2 749.5,96.8 769.0,85.5"/>
-      <polygon class="grid" points="830.1,96.8 830.1,119.2 810.6,130.5 791.1,119.2 791.1,96.8 810.6,85.5"/>
-      <polygon class="grid" points="871.7,96.8 871.7,119.2 852.2,130.5 832.7,119.2 832.7,96.8 852.2,85.5"/>
-      <polygon class="grid" points="913.2,96.8 913.2,119.2 893.7,130.5 874.3,119.2 874.3,96.8 893.7,85.5"/>
-      <polygon class="grid" points="954.8,96.8 954.8,119.2 935.3,130.5 915.8,119.2 915.8,96.8 935.3,85.5"/>
-      <polygon class="grid" points="996.4,96.8 996.4,119.2 976.9,130.5 957.4,119.2 957.4,96.8 976.9,85.5"/>
-      <polygon class="grid" points="1037.9,96.8 1037.9,119.2 1018.4,130.5 999.0,119.2 999.0,96.8 1018.4,85.5"/>
-      <polygon class="grid" points="1079.5,96.8 1079.5,119.2 1060.0,130.5 1040.5,119.2 1040.5,96.8 1060.0,85.5"/>
-      <polygon class="grid" points="1121.1,96.8 1121.1,119.2 1101.6,130.5 1082.1,119.2 1082.1,96.8 1101.6,85.5"/>
-      <polygon class="grid" points="1162.6,96.8 1162.6,119.2 1143.2,130.5 1123.7,119.2 1123.7,96.8 1143.2,85.5"/>
-      <polygon class="grid" points="1204.2,96.8 1204.2,119.2 1184.7,130.5 1165.2,119.2 1165.2,96.8 1184.7,85.5"/>
-      <polygon class="grid" points="1245.8,96.8 1245.8,119.2 1226.3,130.5 1206.8,119.2 1206.8,96.8 1226.3,85.5"/>
-      <polygon class="grid" points="19.5,132.8 19.5,155.2 0.0,166.5 -19.5,155.2 -19.5,132.8 -0.0,121.5"/>
-      <polygon class="grid" points="61.1,132.8 61.1,155.2 41.6,166.5 22.1,155.2 22.1,132.8 41.6,121.5"/>
-      <polygon class="grid" points="102.6,132.8 102.6,155.2 83.1,166.5 63.7,155.2 63.7,132.8 83.1,121.5"/>
-      <polygon class="grid" points="144.2,132.8 144.2,155.2 124.7,166.5 105.2,155.2 105.2,132.8 124.7,121.5"/>
-      <polygon class="grid" points="185.8,132.8 185.8,155.2 166.3,166.5 146.8,155.2 146.8,132.8 166.3,121.5"/>
-      <polygon class="grid" points="227.3,132.8 227.3,155.2 207.8,166.5 188.4,155.2 188.4,132.8 207.8,121.5"/>
-      <polygon class="grid" points="268.9,132.8 268.9,155.2 249.4,166.5 229.9,155.2 229.9,132.8 249.4,121.5"/>
-      <polygon class="grid" points="310.5,132.8 310.5,155.2 291.0,166.5 271.5,155.2 271.5,132.8 291.0,121.5"/>
-      <polygon class="grid" points="352.0,132.8 352.0,155.2 332.6,166.5 313.1,155.2 313.1,132.8 332.6,121.5"/>
-      <polygon class="grid" points="393.6,132.8 393.6,155.2 374.1,166.5 354.6,155.2 354.6,132.8 374.1,121.5"/>
-      <polygon class="grid" points="435.2,132.8 435.2,155.2 415.7,166.5 396.2,155.2 396.2,132.8 415.7,121.5"/>
-      <polygon class="grid" points="476.7,132.8 476.7,155.2 457.3,166.5 437.8,155.2 437.8,132.8 457.3,121.5"/>
-      <polygon class="grid" points="518.3,132.8 518.3,155.2 498.8,166.5 479.3,155.2 479.3,132.8 498.8,121.5"/>
-      <polygon class="grid" points="559.9,132.8 559.9,155.2 540.4,166.5 520.9,155.2 520.9,132.8 540.4,121.5"/>
-      <polygon class="grid" points="601.5,132.8 601.5,155.2 582.0,166.5 562.5,155.2 562.5,132.8 582.0,121.5"/>
-      <polygon class="grid" points="643.0,132.8 643.0,155.2 623.5,166.5 604.1,155.2 604.1,132.8 623.5,121.5"/>
-      <polygon class="grid" points="684.6,132.8 684.6,155.2 665.1,166.5 645.6,155.2 645.6,132.8 665.1,121.5"/>
-      <polygon class="grid" points="726.2,132.8 726.2,155.2 706.7,166.5 687.2,155.2 687.2,132.8 706.7,121.5"/>
-      <polygon class="grid" points="767.7,132.8 767.7,155.2 748.2,166.5 728.8,155.2 728.8,132.8 748.2,121.5"/>
-      <polygon class="grid" points="809.3,132.8 809.3,155.2 789.8,166.5 770.3,155.2 770.3,132.8 789.8,121.5"/>
-      <polygon class="grid" points="850.9,132.8 850.9,155.2 831.4,166.5 811.9,155.2 811.9,132.8 831.4,121.5"/>
-      <polygon class="grid" points="892.4,132.8 892.4,155.2 873.0,166.5 853.5,155.2 853.5,132.8 873.0,121.5"/>
-      <polygon class="grid" points="934.0,132.8 934.0,155.2 914.5,166.5 895.0,155.2 895.0,132.8 914.5,121.5"/>
-      <polygon class="grid" points="975.6,132.8 975.6,155.2 956.1,166.5 936.6,155.2 936.6,132.8 956.1,121.5"/>
-      <polygon class="grid" points="1017.1,132.8 1017.1,155.2 997.7,166.5 978.2,155.2 978.2,132.8 997.7,121.5"/>
-      <polygon class="grid" points="1058.7,132.8 1058.7,155.2 1039.2,166.5 1019.7,155.2 1019.7,132.8 1039.2,121.5"/>
-      <polygon class="grid" points="1100.3,132.8 1100.3,155.2 1080.8,166.5 1061.3,155.2 1061.3,132.8 1080.8,121.5"/>
-      <polygon class="grid" points="1141.9,132.8 1141.9,155.2 1122.4,166.5 1102.9,155.2 1102.9,132.8 1122.4,121.5"/>
-      <polygon class="grid" points="1183.4,132.8 1183.4,155.2 1163.9,166.5 1144.5,155.2 1144.5,132.8 1163.9,121.5"/>
-      <polygon class="grid" points="1225.0,132.8 1225.0,155.2 1205.5,166.5 1186.0,155.2 1186.0,132.8 1205.5,121.5"/>
-      <polygon class="grid" points="40.3,168.8 40.3,191.2 20.8,202.5 1.3,191.2 1.3,168.8 20.8,157.5"/>
-      <polygon class="grid" points="81.8,168.8 81.8,191.2 62.4,202.5 42.9,191.2 42.9,168.8 62.4,157.5"/>
-      <polygon class="grid" points="123.4,168.8 123.4,191.2 103.9,202.5 84.4,191.2 84.4,168.8 103.9,157.5"/>
-      <polygon class="grid" points="165.0,168.8 165.0,191.2 145.5,202.5 126.0,191.2 126.0,168.8 145.5,157.5"/>
-      <polygon class="grid" points="206.5,168.8 206.5,191.2 187.1,202.5 167.6,191.2 167.6,168.8 187.1,157.5"/>
-      <polygon class="grid" points="248.1,168.8 248.1,191.2 228.6,202.5 209.1,191.2 209.1,168.8 228.6,157.5"/>
-      <polygon class="grid" points="289.7,168.8 289.7,191.2 270.2,202.5 250.7,191.2 250.7,168.8 270.2,157.5"/>
-      <polygon class="grid" points="331.3,168.8 331.3,191.2 311.8,202.5 292.3,191.2 292.3,168.8 311.8,157.5"/>
-      <polygon class="grid" points="372.8,168.8 372.8,191.2 353.3,202.5 333.9,191.2 333.9,168.8 353.3,157.5"/>
-      <polygon class="grid" points="414.4,168.8 414.4,191.2 394.9,202.5 375.4,191.2 375.4,168.8 394.9,157.5"/>
-      <polygon class="grid" points="456.0,168.8 456.0,191.2 436.5,202.5 417.0,191.2 417.0,168.8 436.5,157.5"/>
-      <polygon class="grid" points="497.5,168.8 497.5,191.2 478.0,202.5 458.6,191.2 458.6,168.8 478.0,157.5"/>
-      <polygon class="grid" points="539.1,168.8 539.1,191.2 519.6,202.5 500.1,191.2 500.1,168.8 519.6,157.5"/>
-      <polygon class="grid" points="580.7,168.8 580.7,191.2 561.2,202.5 541.7,191.2 541.7,168.8 561.2,157.5"/>
-      <polygon class="grid" points="622.2,168.8 622.2,191.2 602.8,202.5 583.3,191.2 583.3,168.8 602.8,157.5"/>
-      <polygon class="grid" points="663.8,168.8 663.8,191.2 644.3,202.5 624.8,191.2 624.8,168.8 644.3,157.5"/>
-      <polygon class="grid" points="705.4,168.8 705.4,191.2 685.9,202.5 666.4,191.2 666.4,168.8 685.9,157.5"/>
-      <polygon class="grid" points="746.9,168.8 746.9,191.2 727.5,202.5 708.0,191.2 708.0,168.8 727.5,157.5"/>
-      <polygon class="grid" points="788.5,168.8 788.5,191.2 769.0,202.5 749.5,191.2 749.5,168.8 769.0,157.5"/>
-      <polygon class="grid" points="830.1,168.8 830.1,191.2 810.6,202.5 791.1,191.2 791.1,168.8 810.6,157.5"/>
-      <polygon class="grid" points="871.7,168.8 871.7,191.2 852.2,202.5 832.7,191.2 832.7,168.8 852.2,157.5"/>
-      <polygon class="grid" points="913.2,168.8 913.2,191.2 893.7,202.5 874.3,191.2 874.3,168.8 893.7,157.5"/>
-      <polygon class="grid" points="954.8,168.8 954.8,191.2 935.3,202.5 915.8,191.2 915.8,168.8 935.3,157.5"/>
-      <polygon class="grid" points="996.4,168.8 996.4,191.2 976.9,202.5 957.4,191.2 957.4,168.8 976.9,157.5"/>
-      <polygon class="grid" points="1037.9,168.8 1037.9,191.2 1018.4,202.5 999.0,191.2 999.0,168.8 1018.4,157.5"/>
-      <polygon class="grid" points="1079.5,168.8 1079.5,191.2 1060.0,202.5 1040.5,191.2 1040.5,168.8 1060.0,157.5"/>
-      <polygon class="grid" points="1121.1,168.8 1121.1,191.2 1101.6,202.5 1082.1,191.2 1082.1,168.8 1101.6,157.5"/>
-      <polygon class="grid" points="1162.6,168.8 1162.6,191.2 1143.2,202.5 1123.7,191.2 1123.7,168.8 1143.2,157.5"/>
-      <polygon class="grid" points="1204.2,168.8 1204.2,191.2 1184.7,202.5 1165.2,191.2 1165.2,168.8 1184.7,157.5"/>
-      <polygon class="grid" points="1245.8,168.8 1245.8,191.2 1226.3,202.5 1206.8,191.2 1206.8,168.8 1226.3,157.5"/>
-      <polygon class="grid" points="19.5,204.8 19.5,227.2 0.0,238.5 -19.5,227.2 -19.5,204.8 -0.0,193.5"/>
-      <polygon class="grid" points="61.1,204.8 61.1,227.2 41.6,238.5 22.1,227.2 22.1,204.8 41.6,193.5"/>
-      <polygon class="grid" points="102.6,204.8 102.6,227.2 83.1,238.5 63.7,227.2 63.7,204.8 83.1,193.5"/>
-      <polygon class="grid" points="144.2,204.8 144.2,227.2 124.7,238.5 105.2,227.2 105.2,204.8 124.7,193.5"/>
-      <polygon class="grid" points="185.8,204.8 185.8,227.2 166.3,238.5 146.8,227.2 146.8,204.8 166.3,193.5"/>
-      <polygon class="grid" points="227.3,204.8 227.3,227.2 207.8,238.5 188.4,227.2 188.4,204.8 207.8,193.5"/>
-      <polygon class="grid" points="268.9,204.8 268.9,227.2 249.4,238.5 229.9,227.2 229.9,204.8 249.4,193.5"/>
-      <polygon class="grid" points="310.5,204.8 310.5,227.2 291.0,238.5 271.5,227.2 271.5,204.8 291.0,193.5"/>
-      <polygon class="grid" points="352.0,204.8 352.0,227.2 332.6,238.5 313.1,227.2 313.1,204.8 332.6,193.5"/>
-      <polygon class="grid" points="393.6,204.8 393.6,227.2 374.1,238.5 354.6,227.2 354.6,204.8 374.1,193.5"/>
-      <polygon class="grid" points="435.2,204.8 435.2,227.2 415.7,238.5 396.2,227.2 396.2,204.8 415.7,193.5"/>
-      <polygon class="grid" points="476.7,204.8 476.7,227.2 457.3,238.5 437.8,227.2 437.8,204.8 457.3,193.5"/>
-      <polygon class="grid" points="518.3,204.8 518.3,227.2 498.8,238.5 479.3,227.2 479.3,204.8 498.8,193.5"/>
-      <polygon class="grid" points="559.9,204.8 559.9,227.2 540.4,238.5 520.9,227.2 520.9,204.8 540.4,193.5"/>
-      <polygon class="grid" points="601.5,204.8 601.5,227.2 582.0,238.5 562.5,227.2 562.5,204.8 582.0,193.5"/>
-      <polygon class="grid" points="643.0,204.8 643.0,227.2 623.5,238.5 604.1,227.2 604.1,204.8 623.5,193.5"/>
-      <polygon class="grid" points="684.6,204.8 684.6,227.2 665.1,238.5 645.6,227.2 645.6,204.8 665.1,193.5"/>
-      <polygon class="grid" points="726.2,204.8 726.2,227.2 706.7,238.5 687.2,227.2 687.2,204.8 706.7,193.5"/>
-      <polygon class="grid" points="767.7,204.8 767.7,227.2 748.2,238.5 728.8,227.2 728.8,204.8 748.2,193.5"/>
-      <polygon class="grid" points="809.3,204.8 809.3,227.2 789.8,238.5 770.3,227.2 770.3,204.8 789.8,193.5"/>
-      <polygon class="grid" points="850.9,204.8 850.9,227.2 831.4,238.5 811.9,227.2 811.9,204.8 831.4,193.5"/>
-      <polygon class="grid" points="892.4,204.8 892.4,227.2 873.0,238.5 853.5,227.2 853.5,204.8 873.0,193.5"/>
-      <polygon class="grid" points="934.0,204.8 934.0,227.2 914.5,238.5 895.0,227.2 895.0,204.8 914.5,193.5"/>
-      <polygon class="grid" points="975.6,204.8 975.6,227.2 956.1,238.5 936.6,227.2 936.6,204.8 956.1,193.5"/>
-      <polygon class="grid" points="1017.1,204.8 1017.1,227.2 997.7,238.5 978.2,227.2 978.2,204.8 997.7,193.5"/>
-      <polygon class="grid" points="1058.7,204.8 1058.7,227.2 1039.2,238.5 1019.7,227.2 1019.7,204.8 1039.2,193.5"/>
-      <polygon class="grid" points="1100.3,204.8 1100.3,227.2 1080.8,238.5 1061.3,227.2 1061.3,204.8 1080.8,193.5"/>
-      <polygon class="grid" points="1141.9,204.8 1141.9,227.2 1122.4,238.5 1102.9,227.2 1102.9,204.8 1122.4,193.5"/>
-      <polygon class="grid" points="1183.4,204.8 1183.4,227.2 1163.9,238.5 1144.5,227.2 1144.5,204.8 1163.9,193.5"/>
-      <polygon class="grid" points="1225.0,204.8 1225.0,227.2 1205.5,238.5 1186.0,227.2 1186.0,204.8 1205.5,193.5"/>
-    </g>
-    <g filter="url(#glow)">
-      <polygon class="pulse" points="59.8,-10.5 59.8,10.5 41.6,21.0 23.4,10.5 23.4,-10.5 41.6,-21.0" style="animation-delay:3.9s;animation-duration:5.6s"/>
-      <polygon class="pulse" points="142.9,-10.5 142.9,10.5 124.7,21.0 106.5,10.5 106.5,-10.5 124.7,-21.0" style="animation-delay:3.2s;animation-duration:5.5s"/>
-      <polygon class="pulse" points="267.6,-10.5 267.6,10.5 249.4,21.0 231.2,10.5 231.2,-10.5 249.4,-21.0" style="animation-delay:3.0s;animation-duration:3.7s"/>
-      <polygon class="pulse" points="350.7,-10.5 350.7,10.5 332.6,21.0 314.4,10.5 314.4,-10.5 332.6,-21.0" style="animation-delay:2.1s;animation-duration:4.1s"/>
-      <polygon class="pulse" points="433.9,-10.5 433.9,10.5 415.7,21.0 397.5,10.5 397.5,-10.5 415.7,-21.0" style="animation-delay:0.1s;animation-duration:3.1s"/>
-      <polygon class="pulse" points="475.4,-10.5 475.4,10.5 457.3,21.0 439.1,10.5 439.1,-10.5 457.3,-21.0" style="animation-delay:1.1s;animation-duration:3.8s"/>
-      <polygon class="pulse" points="600.2,-10.5 600.2,10.5 582.0,21.0 563.8,10.5 563.8,-10.5 582.0,-21.0" style="animation-delay:2.8s;animation-duration:5.9s"/>
-      <polygon class="pulse" points="891.1,-10.5 891.1,10.5 873.0,21.0 854.8,10.5 854.8,-10.5 873.0,-21.0" style="animation-delay:1.8s;animation-duration:5.8s"/>
-      <polygon class="pulse" points="1015.8,-10.5 1015.8,10.5 997.7,21.0 979.5,10.5 979.5,-10.5 997.7,-21.0" style="animation-delay:4.0s;animation-duration:5.9s"/>
-      <polygon class="pulse" points="1057.4,-10.5 1057.4,10.5 1039.2,21.0 1021.0,10.5 1021.0,-10.5 1039.2,-21.0" style="animation-delay:1.5s;animation-duration:3.7s"/>
-      <polygon class="pulse" points="1182.1,-10.5 1182.1,10.5 1163.9,21.0 1145.8,10.5 1145.8,-10.5 1163.9,-21.0" style="animation-delay:0.9s;animation-duration:3.6s"/>
-      <polygon class="pulse" points="163.7,25.5 163.7,46.5 145.5,57.0 127.3,46.5 127.3,25.5 145.5,15.0" style="animation-delay:0.8s;animation-duration:4.9s"/>
-      <polygon class="pulse" points="205.2,25.5 205.2,46.5 187.1,57.0 168.9,46.5 168.9,25.5 187.1,15.0" style="animation-delay:3.6s;animation-duration:5.5s"/>
-      <polygon class="pulse" points="911.9,25.5 911.9,46.5 893.7,57.0 875.6,46.5 875.6,25.5 893.7,15.0" style="animation-delay:1.9s;animation-duration:5.0s"/>
-      <polygon class="pulse" points="1036.6,25.5 1036.6,46.5 1018.4,57.0 1000.3,46.5 1000.3,25.5 1018.4,15.0" style="animation-delay:3.2s;animation-duration:3.3s"/>
-      <polygon class="pulse" points="1119.8,25.5 1119.8,46.5 1101.6,57.0 1083.4,46.5 1083.4,25.5 1101.6,15.0" style="animation-delay:2.6s;animation-duration:5.7s"/>
-      <polygon class="pulse" points="974.3,61.5 974.3,82.5 956.1,93.0 937.9,82.5 937.9,61.5 956.1,51.0" style="animation-delay:3.1s;animation-duration:5.3s"/>
-      <polygon class="pulse" points="80.5,97.5 80.5,118.5 62.4,129.0 44.2,118.5 44.2,97.5 62.4,87.0" style="animation-delay:1.9s;animation-duration:3.5s"/>
-      <polygon class="pulse" points="163.7,97.5 163.7,118.5 145.5,129.0 127.3,118.5 127.3,97.5 145.5,87.0" style="animation-delay:3.2s;animation-duration:4.0s"/>
-      <polygon class="pulse" points="205.2,97.5 205.2,118.5 187.1,129.0 168.9,118.5 168.9,97.5 187.1,87.0" style="animation-delay:3.2s;animation-duration:5.9s"/>
-      <polygon class="pulse" points="246.8,97.5 246.8,118.5 228.6,129.0 210.4,118.5 210.4,97.5 228.6,87.0" style="animation-delay:1.6s;animation-duration:4.2s"/>
-      <polygon class="pulse" points="330.0,97.5 330.0,118.5 311.8,129.0 293.6,118.5 293.6,97.5 311.8,87.0" style="animation-delay:3.8s;animation-duration:5.2s"/>
-      <polygon class="pulse" points="1036.6,97.5 1036.6,118.5 1018.4,129.0 1000.3,118.5 1000.3,97.5 1018.4,87.0" style="animation-delay:0.7s;animation-duration:3.4s"/>
-      <polygon class="pulse" points="226.0,133.5 226.0,154.5 207.8,165.0 189.7,154.5 189.7,133.5 207.8,123.0" style="animation-delay:0.6s;animation-duration:5.7s"/>
-      <polygon class="pulse" points="267.6,133.5 267.6,154.5 249.4,165.0 231.2,154.5 231.2,133.5 249.4,123.0" style="animation-delay:3.2s;animation-duration:3.4s"/>
-      <polygon class="pulse" points="1057.4,133.5 1057.4,154.5 1039.2,165.0 1021.0,154.5 1021.0,133.5 1039.2,123.0" style="animation-delay:3.3s;animation-duration:5.9s"/>
-      <polygon class="pulse" points="205.2,169.5 205.2,190.5 187.1,201.0 168.9,190.5 168.9,169.5 187.1,159.0" style="animation-delay:2.6s;animation-duration:4.1s"/>
-      <polygon class="pulse" points="496.2,169.5 496.2,190.5 478.0,201.0 459.9,190.5 459.9,169.5 478.0,159.0" style="animation-delay:2.2s;animation-duration:3.4s"/>
-      <polygon class="pulse" points="579.4,169.5 579.4,190.5 561.2,201.0 543.0,190.5 543.0,169.5 561.2,159.0" style="animation-delay:0.1s;animation-duration:5.9s"/>
-      <polygon class="pulse" points="620.9,169.5 620.9,190.5 602.8,201.0 584.6,190.5 584.6,169.5 602.8,159.0" style="animation-delay:2.6s;animation-duration:4.6s"/>
-      <polygon class="pulse" points="704.1,169.5 704.1,190.5 685.9,201.0 667.7,190.5 667.7,169.5 685.9,159.0" style="animation-delay:3.7s;animation-duration:4.3s"/>
-      <polygon class="pulse" points="787.2,169.5 787.2,190.5 769.0,201.0 750.8,190.5 750.8,169.5 769.0,159.0" style="animation-delay:3.5s;animation-duration:5.5s"/>
-      <polygon class="pulse" points="828.8,169.5 828.8,190.5 810.6,201.0 792.4,190.5 792.4,169.5 810.6,159.0" style="animation-delay:0.8s;animation-duration:3.8s"/>
-      <polygon class="pulse" points="870.4,169.5 870.4,190.5 852.2,201.0 834.0,190.5 834.0,169.5 852.2,159.0" style="animation-delay:1.2s;animation-duration:3.7s"/>
-      <polygon class="pulse" points="911.9,169.5 911.9,190.5 893.7,201.0 875.6,190.5 875.6,169.5 893.7,159.0" style="animation-delay:2.3s;animation-duration:3.8s"/>
-      <polygon class="pulse" points="995.1,169.5 995.1,190.5 976.9,201.0 958.7,190.5 958.7,169.5 976.9,159.0" style="animation-delay:1.7s;animation-duration:3.4s"/>
-      <polygon class="pulse" points="1119.8,169.5 1119.8,190.5 1101.6,201.0 1083.4,190.5 1083.4,169.5 1101.6,159.0" style="animation-delay:3.6s;animation-duration:4.1s"/>
-      <polygon class="pulse" points="18.2,205.5 18.2,226.5 0.0,237.0 -18.2,226.5 -18.2,205.5 -0.0,195.0" style="animation-delay:1.8s;animation-duration:4.8s"/>
-      <polygon class="pulse" points="226.0,205.5 226.0,226.5 207.8,237.0 189.7,226.5 189.7,205.5 207.8,195.0" style="animation-delay:3.6s;animation-duration:4.3s"/>
-      <polygon class="pulse" points="267.6,205.5 267.6,226.5 249.4,237.0 231.2,226.5 231.2,205.5 249.4,195.0" style="animation-delay:3.7s;animation-duration:4.5s"/>
-      <polygon class="pulse" points="433.9,205.5 433.9,226.5 415.7,237.0 397.5,226.5 397.5,205.5 415.7,195.0" style="animation-delay:2.1s;animation-duration:4.6s"/>
-      <polygon class="pulse" points="475.4,205.5 475.4,226.5 457.3,237.0 439.1,226.5 439.1,205.5 457.3,195.0" style="animation-delay:0.1s;animation-duration:4.3s"/>
-      <polygon class="pulse" points="600.2,205.5 600.2,226.5 582.0,237.0 563.8,226.5 563.8,205.5 582.0,195.0" style="animation-delay:0.7s;animation-duration:3.0s"/>
-      <polygon class="pulse" points="683.3,205.5 683.3,226.5 665.1,237.0 646.9,226.5 646.9,205.5 665.1,195.0" style="animation-delay:3.2s;animation-duration:3.5s"/>
-      <polygon class="pulse" points="974.3,205.5 974.3,226.5 956.1,237.0 937.9,226.5 937.9,205.5 956.1,195.0" style="animation-delay:1.9s;animation-duration:5.2s"/>
-    </g>
-    <g filter="url(#glow)">
-      <polygon class="float" points="116.0,45.0 116.0,75.0 90.0,90.0 64.0,75.0 64.0,45.0 90.0,30.0" style="animation-delay:0s"/>
-      <polygon class="float" points="1139.4,133.0 1139.4,167.0 1110.0,184.0 1080.6,167.0 1080.6,133.0 1110.0,116.0" style="animation-delay:2s"/>
-      <polygon class="float" points="1025.6,31.0 1025.6,49.0 1010.0,58.0 994.4,49.0 994.4,31.0 1010.0,22.0" style="animation-delay:4s"/>
-      <polygon class="float" points="203.9,162.0 203.9,178.0 190.0,186.0 176.1,178.0 176.1,162.0 190.0,154.0" style="animation-delay:1s"/>
-      <polygon class="float" points="79.1,149.0 79.1,171.0 60.0,182.0 40.9,171.0 40.9,149.0 60.0,138.0" style="animation-delay:3s"/>
-      <polygon class="float" points="1167.3,50.0 1167.3,70.0 1150.0,80.0 1132.7,70.0 1132.7,50.0 1150.0,40.0" style="animation-delay:5s"/>
-    </g>
-    <rect class="sweep" x="0" y="0" width="300" height="220" fill="url(#sweep)" transform="skewX(-20)"/>
-    <g text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
-      <text class="title" x="600" y="104" font-size="54" font-weight="700" fill="url(#txt)" filter="url(#tglow)">Goutham Retheesh</text>
-      <text class="sub" x="600" y="142" font-size="19" fill="#c7d2fe" letter-spacing="3">SOFTWARE DEVELOPER  |  AI &amp; ML ENGINEER</text>
-      <rect class="bar" x="500" y="158" width="200" height="3" rx="1.5" fill="url(#txt)" filter="url(#tglow)"/>
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo2MGFhMzE5ZC0wMTY2LTRlZTEtYTM2NS03ZGY2MzZlMDU4ODIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaDShbomTQQTxsWyAcQlCrdkAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoxMjQ4NWVkZC0zZTIzLTQ0MDAtYTM3NC1kZGU3NzlhN2I1Y2VscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNomFqGgcywiVis1MPCqfpRdwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggi8tuucK6yFPhDWiKU64PJZcUycruuBWLlfRCMNBy+gakZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaHMEh+nVflFirGdTxciuOP4AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCY3o+nprA12mKD8wetrvvhKx9em2XWSQQwMDN8V+QO3WRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjYwYWEzMTlkLTAxNjYtNGVlMS1hMzY1LTdkZjYzNmUwNTg4Mi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjQ1MTc5ZDhmLTY2OWYtNGVjOC05ZjM1LTcxOGU2YjllZGE0MHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCLy265wrrIU+ENaIpTrg8llxTJyu64FYuV9EIw0HL6BqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggE6YT7CoJcYCDNl5fZT65jBSA+UBqMMLJzuWCYo2cixGiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg4LAqwd+WBbXuMtDmCW2brlsbo19alTSBLbvAeFX0RQ90Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQHRBi5M3YiV/lbCnfi+tPKnCuoxUmuXqUNWg8O4fdDDkPxuKrF8NhRuNm5fvXe6Ax2PjtpjzIUSDILW99X50yvc=</c2pa:manifest></metadata>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset=".55" stop-color="#151a45"/><stop offset="1" stop-color="#3b3fb8"/></linearGradient>
+<linearGradient id="tx" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset=".5" stop-color="#c7d2fe"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+<filter id="gl"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="220" fill="url(#bg)"/>
+<path d="M19 -11L19 11L0 22L-19 11L-19 -11L-0 -22ZM61 -11L61 11L42 22L22 11L22 -11L42 -22ZM103 -11L103 11L83 22L64 11L64 -11L83 -22ZM144 -11L144 11L125 22L105 11L105 -11L125 -22ZM186 -11L186 11L166 22L147 11L147 -11L166 -22ZM227 -11L227 11L208 22L188 11L188 -11L208 -22ZM269 -11L269 11L249 22L230 11L230 -11L249 -22ZM310 -11L310 11L291 22L271 11L271 -11L291 -22ZM352 -11L352 11L333 22L313 11L313 -11L333 -22ZM394 -11L394 11L374 22L355 11L355 -11L374 -22ZM435 -11L435 11L416 22L396 11L396 -11L416 -22ZM477 -11L477 11L457 22L438 11L438 -11L457 -22ZM518 -11L518 11L499 22L479 11L479 -11L499 -22ZM560 -11L560 11L540 22L521 11L521 -11L540 -22ZM601 -11L601 11L582 22L562 11L562 -11L582 -22ZM643 -11L643 11L624 22L604 11L604 -11L624 -22ZM685 -11L685 11L665 22L646 11L646 -11L665 -22ZM726 -11L726 11L707 22L687 11L687 -11L707 -22ZM768 -11L768 11L748 22L729 11L729 -11L748 -22ZM809 -11L809 11L790 22L770 11L770 -11L790 -22ZM851 -11L851 11L831 22L812 11L812 -11L831 -22ZM892 -11L892 11L873 22L853 11L853 -11L873 -22ZM934 -11L934 11L915 22L895 11L895 -11L915 -22ZM976 -11L976 11L956 22L937 11L937 -11L956 -22ZM1017 -11L1017 11L998 22L978 11L978 -11L998 -22ZM1059 -11L1059 11L1039 22L1020 11L1020 -11L1039 -22ZM1100 -11L1100 11L1081 22L1061 11L1061 -11L1081 -22ZM1142 -11L1142 11L1122 22L1103 11L1103 -11L1122 -22ZM1183 -11L1183 11L1164 22L1144 11L1144 -11L1164 -22ZM1225 -11L1225 11L1206 22L1186 11L1186 -11L1206 -22ZM40 25L40 47L21 58L1 47L1 25L21 14ZM82 25L82 47L62 58L43 47L43 25L62 14ZM123 25L123 47L104 58L84 47L84 25L104 14ZM165 25L165 47L145 58L126 47L126 25L145 14ZM207 25L207 47L187 58L168 47L168 25L187 14ZM248 25L248 47L229 58L209 47L209 25L229 14ZM290 25L290 47L270 58L251 47L251 25L270 14ZM331 25L331 47L312 58L292 47L292 25L312 14ZM373 25L373 47L353 58L334 47L334 25L353 14ZM414 25L414 47L395 58L375 47L375 25L395 14ZM456 25L456 47L436 58L417 47L417 25L436 14ZM498 25L498 47L478 58L459 47L459 25L478 14ZM539 25L539 47L520 58L500 47L500 25L520 14ZM581 25L581 47L561 58L542 47L542 25L561 14ZM622 25L622 47L603 58L583 47L583 25L603 14ZM664 25L664 47L644 58L625 47L625 25L644 14ZM705 25L705 47L686 58L666 47L666 25L686 14ZM747 25L747 47L727 58L708 47L708 25L727 14ZM789 25L789 47L769 58L750 47L750 25L769 14ZM830 25L830 47L811 58L791 47L791 25L811 14ZM872 25L872 47L852 58L833 47L833 25L852 14ZM913 25L913 47L894 58L874 47L874 25L894 14ZM955 25L955 47L935 58L916 47L916 25L935 14ZM996 25L996 47L977 58L957 47L957 25L977 14ZM1038 25L1038 47L1018 58L999 47L999 25L1018 14ZM1080 25L1080 47L1060 58L1041 47L1041 25L1060 14ZM1121 25L1121 47L1102 58L1082 47L1082 25L1102 14ZM1163 25L1163 47L1143 58L1124 47L1124 25L1143 14ZM1204 25L1204 47L1185 58L1165 47L1165 25L1185 14ZM1246 25L1246 47L1226 58L1207 47L1207 25L1226 14ZM19 61L19 83L0 94L-19 83L-19 61L-0 50ZM61 61L61 83L42 94L22 83L22 61L42 50ZM103 61L103 83L83 94L64 83L64 61L83 50ZM144 61L144 83L125 94L105 83L105 61L125 50ZM186 61L186 83L166 94L147 83L147 61L166 50ZM227 61L227 83L208 94L188 83L188 61L208 50ZM269 61L269 83L249 94L230 83L230 61L249 50ZM310 61L310 83L291 94L271 83L271 61L291 50ZM352 61L352 83L333 94L313 83L313 61L333 50ZM394 61L394 83L374 94L355 83L355 61L374 50ZM435 61L435 83L416 94L396 83L396 61L416 50ZM477 61L477 83L457 94L438 83L438 61L457 50ZM518 61L518 83L499 94L479 83L479 61L499 50ZM560 61L560 83L540 94L521 83L521 61L540 50ZM601 61L601 83L582 94L562 83L562 61L582 50ZM643 61L643 83L624 94L604 83L604 61L624 50ZM685 61L685 83L665 94L646 83L646 61L665 50ZM726 61L726 83L707 94L687 83L687 61L707 50ZM768 61L768 83L748 94L729 83L729 61L748 50ZM809 61L809 83L790 94L770 83L770 61L790 50ZM851 61L851 83L831 94L812 83L812 61L831 50ZM892 61L892 83L873 94L853 83L853 61L873 50ZM934 61L934 83L915 94L895 83L895 61L915 50ZM976 61L976 83L956 94L937 83L937 61L956 50ZM1017 61L1017 83L998 94L978 83L978 61L998 50ZM1059 61L1059 83L1039 94L1020 83L1020 61L1039 50ZM1100 61L1100 83L1081 94L1061 83L1061 61L1081 50ZM1142 61L1142 83L1122 94L1103 83L1103 61L1122 50ZM1183 61L1183 83L1164 94L1144 83L1144 61L1164 50ZM1225 61L1225 83L1206 94L1186 83L1186 61L1206 50ZM40 97L40 119L21 130L1 119L1 97L21 86ZM82 97L82 119L62 130L43 119L43 97L62 86ZM123 97L123 119L104 130L84 119L84 97L104 86ZM165 97L165 119L145 130L126 119L126 97L145 86ZM207 97L207 119L187 130L168 119L168 97L187 86ZM248 97L248 119L229 130L209 119L209 97L229 86ZM290 97L290 119L270 130L251 119L251 97L270 86ZM331 97L331 119L312 130L292 119L292 97L312 86ZM373 97L373 119L353 130L334 119L334 97L353 86ZM414 97L414 119L395 130L375 119L375 97L395 86ZM456 97L456 119L436 130L417 119L417 97L436 86ZM498 97L498 119L478 130L459 119L459 97L478 86ZM539 97L539 119L520 130L500 119L500 97L520 86ZM581 97L581 119L561 130L542 119L542 97L561 86ZM622 97L622 119L603 130L583 119L583 97L603 86ZM664 97L664 119L644 130L625 119L625 97L644 86ZM705 97L705 119L686 130L666 119L666 97L686 86ZM747 97L747 119L727 130L708 119L708 97L727 86ZM789 97L789 119L769 130L750 119L750 97L769 86ZM830 97L830 119L811 130L791 119L791 97L811 86ZM872 97L872 119L852 130L833 119L833 97L852 86ZM913 97L913 119L894 130L874 119L874 97L894 86ZM955 97L955 119L935 130L916 119L916 97L935 86ZM996 97L996 119L977 130L957 119L957 97L977 86ZM1038 97L1038 119L1018 130L999 119L999 97L1018 86ZM1080 97L1080 119L1060 130L1041 119L1041 97L1060 86ZM1121 97L1121 119L1102 130L1082 119L1082 97L1102 86ZM1163 97L1163 119L1143 130L1124 119L1124 97L1143 86ZM1204 97L1204 119L1185 130L1165 119L1165 97L1185 86ZM1246 97L1246 119L1226 130L1207 119L1207 97L1226 86ZM19 133L19 155L0 166L-19 155L-19 133L-0 122ZM61 133L61 155L42 166L22 155L22 133L42 122ZM103 133L103 155L83 166L64 155L64 133L83 122ZM144 133L144 155L125 166L105 155L105 133L125 122ZM186 133L186 155L166 166L147 155L147 133L166 122ZM227 133L227 155L208 166L188 155L188 133L208 122ZM269 133L269 155L249 166L230 155L230 133L249 122ZM310 133L310 155L291 166L271 155L271 133L291 122ZM352 133L352 155L333 166L313 155L313 133L333 122ZM394 133L394 155L374 166L355 155L355 133L374 122ZM435 133L435 155L416 166L396 155L396 133L416 122ZM477 133L477 155L457 166L438 155L438 133L457 122ZM518 133L518 155L499 166L479 155L479 133L499 122ZM560 133L560 155L540 166L521 155L521 133L540 122ZM601 133L601 155L582 166L562 155L562 133L582 122ZM643 133L643 155L624 166L604 155L604 133L624 122ZM685 133L685 155L665 166L646 155L646 133L665 122ZM726 133L726 155L707 166L687 155L687 133L707 122ZM768 133L768 155L748 166L729 155L729 133L748 122ZM809 133L809 155L790 166L770 155L770 133L790 122ZM851 133L851 155L831 166L812 155L812 133L831 122ZM892 133L892 155L873 166L853 155L853 133L873 122ZM934 133L934 155L915 166L895 155L895 133L915 122ZM976 133L976 155L956 166L937 155L937 133L956 122ZM1017 133L1017 155L998 166L978 155L978 133L998 122ZM1059 133L1059 155L1039 166L1020 155L1020 133L1039 122ZM1100 133L1100 155L1081 166L1061 155L1061 133L1081 122ZM1142 133L1142 155L1122 166L1103 155L1103 133L1122 122ZM1183 133L1183 155L1164 166L1144 155L1144 133L1164 122ZM1225 133L1225 155L1206 166L1186 155L1186 133L1206 122ZM40 169L40 191L21 202L1 191L1 169L21 158ZM82 169L82 191L62 202L43 191L43 169L62 158ZM123 169L123 191L104 202L84 191L84 169L104 158ZM165 169L165 191L145 202L126 191L126 169L145 158ZM207 169L207 191L187 202L168 191L168 169L187 158ZM248 169L248 191L229 202L209 191L209 169L229 158ZM290 169L290 191L270 202L251 191L251 169L270 158ZM331 169L331 191L312 202L292 191L292 169L312 158ZM373 169L373 191L353 202L334 191L334 169L353 158ZM414 169L414 191L395 202L375 191L375 169L395 158ZM456 169L456 191L436 202L417 191L417 169L436 158ZM498 169L498 191L478 202L459 191L459 169L478 158ZM539 169L539 191L520 202L500 191L500 169L520 158ZM581 169L581 191L561 202L542 191L542 169L561 158ZM622 169L622 191L603 202L583 191L583 169L603 158ZM664 169L664 191L644 202L625 191L625 169L644 158ZM705 169L705 191L686 202L666 191L666 169L686 158ZM747 169L747 191L727 202L708 191L708 169L727 158ZM789 169L789 191L769 202L750 191L750 169L769 158ZM830 169L830 191L811 202L791 191L791 169L811 158ZM872 169L872 191L852 202L833 191L833 169L852 158ZM913 169L913 191L894 202L874 191L874 169L894 158ZM955 169L955 191L935 202L916 191L916 169L935 158ZM996 169L996 191L977 202L957 191L957 169L977 158ZM1038 169L1038 191L1018 202L999 191L999 169L1018 158ZM1080 169L1080 191L1060 202L1041 191L1041 169L1060 158ZM1121 169L1121 191L1102 202L1082 191L1082 169L1102 158ZM1163 169L1163 191L1143 202L1124 191L1124 169L1143 158ZM1204 169L1204 191L1185 202L1165 191L1165 169L1185 158ZM1246 169L1246 191L1226 202L1207 191L1207 169L1226 158ZM19 205L19 227L0 238L-19 227L-19 205L-0 194ZM61 205L61 227L42 238L22 227L22 205L42 194ZM103 205L103 227L83 238L64 227L64 205L83 194ZM144 205L144 227L125 238L105 227L105 205L125 194ZM186 205L186 227L166 238L147 227L147 205L166 194ZM227 205L227 227L208 238L188 227L188 205L208 194ZM269 205L269 227L249 238L230 227L230 205L249 194ZM310 205L310 227L291 238L271 227L271 205L291 194ZM352 205L352 227L333 238L313 227L313 205L333 194ZM394 205L394 227L374 238L355 227L355 205L374 194ZM435 205L435 227L416 238L396 227L396 205L416 194ZM477 205L477 227L457 238L438 227L438 205L457 194ZM518 205L518 227L499 238L479 227L479 205L499 194ZM560 205L560 227L540 238L521 227L521 205L540 194ZM601 205L601 227L582 238L562 227L562 205L582 194ZM643 205L643 227L624 238L604 227L604 205L624 194ZM685 205L685 227L665 238L646 227L646 205L665 194ZM726 205L726 227L707 238L687 227L687 205L707 194ZM768 205L768 227L748 238L729 227L729 205L748 194ZM809 205L809 227L790 238L770 227L770 205L790 194ZM851 205L851 227L831 238L812 227L812 205L831 194ZM892 205L892 227L873 238L853 227L853 205L873 194ZM934 205L934 227L915 238L895 227L895 205L915 194ZM976 205L976 227L956 238L937 227L937 205L956 194ZM1017 205L1017 227L998 238L978 227L978 205L998 194ZM1059 205L1059 227L1039 238L1020 227L1020 205L1039 194ZM1100 205L1100 227L1081 238L1061 227L1061 205L1081 194ZM1142 205L1142 227L1122 238L1103 227L1103 205L1122 194ZM1183 205L1183 227L1164 238L1144 227L1144 205L1164 194ZM1225 205L1225 227L1206 238L1186 227L1186 205L1206 194Z" fill="none" stroke="#6366f1" stroke-opacity=".18"/>
+<g filter="url(#gl)">
+<polygon points="60,-10 60,10 42,21 23,10 23,-11 42,-21" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="5.6s" begin="3.9s" repeatCount="indefinite"/></polygon>
+<polygon points="143,-10 143,10 125,21 107,10 107,-11 125,-21" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="5.5s" begin="3.2s" repeatCount="indefinite"/></polygon>
+<polygon points="268,-10 268,10 249,21 231,10 231,-11 249,-21" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="3.7s" begin="3.0s" repeatCount="indefinite"/></polygon>
+<polygon points="351,-10 351,10 333,21 314,10 314,-11 333,-21" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="4.1s" begin="2.1s" repeatCount="indefinite"/></polygon>
+<polygon points="434,-10 434,10 416,21 398,10 398,-11 416,-21" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="3.1s" begin="0.1s" repeatCount="indefinite"/></polygon>
+<polygon points="475,-10 475,10 457,21 439,10 439,-11 457,-21" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="3.8s" begin="1.1s" repeatCount="indefinite"/></polygon>
+<polygon points="600,-10 600,10 582,21 564,10 564,-11 582,-21" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="5.9s" begin="2.8s" repeatCount="indefinite"/></polygon>
+<polygon points="891,-10 891,10 873,21 855,10 855,-11 873,-21" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="5.8s" begin="1.8s" repeatCount="indefinite"/></polygon>
+<polygon points="1016,-10 1016,10 998,21 979,10 979,-11 998,-21" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="5.9s" begin="4.0s" repeatCount="indefinite"/></polygon>
+<polygon points="1057,-10 1057,10 1039,21 1021,10 1021,-11 1039,-21" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="3.7s" begin="1.5s" repeatCount="indefinite"/></polygon>
+<polygon points="164,26 164,46 145,57 127,46 127,26 145,15" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="3.6s" begin="0.9s" repeatCount="indefinite"/></polygon>
+<polygon points="205,26 205,46 187,57 169,46 169,26 187,15" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="4.9s" begin="0.8s" repeatCount="indefinite"/></polygon>
+<polygon points="912,26 912,46 894,57 876,46 876,26 894,15" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="5.5s" begin="3.6s" repeatCount="indefinite"/></polygon>
+<polygon points="1037,26 1037,46 1018,57 1000,46 1000,26 1018,15" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="5.0s" begin="1.9s" repeatCount="indefinite"/></polygon>
+<polygon points="1120,26 1120,46 1102,57 1083,46 1083,26 1102,15" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="3.3s" begin="3.2s" repeatCount="indefinite"/></polygon>
+<polygon points="974,62 974,82 956,93 938,82 938,62 956,51" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="5.7s" begin="2.6s" repeatCount="indefinite"/></polygon>
+<polygon points="81,98 81,118 62,129 44,118 44,98 62,87" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="5.3s" begin="3.1s" repeatCount="indefinite"/></polygon>
+<polygon points="205,98 205,118 187,129 169,118 169,98 187,87" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="3.5s" begin="1.9s" repeatCount="indefinite"/></polygon>
+<polygon points="247,98 247,118 229,129 210,118 210,98 229,87" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="4.0s" begin="3.2s" repeatCount="indefinite"/></polygon>
+<polygon points="330,98 330,118 312,129 294,118 294,98 312,87" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="5.9s" begin="3.2s" repeatCount="indefinite"/></polygon>
+<polygon points="1037,98 1037,118 1018,129 1000,118 1000,98 1018,87" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="4.2s" begin="1.6s" repeatCount="indefinite"/></polygon>
+<polygon points="226,134 226,154 208,165 190,154 190,134 208,123" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="5.2s" begin="3.8s" repeatCount="indefinite"/></polygon>
+<polygon points="1057,134 1057,154 1039,165 1021,154 1021,134 1039,123" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="3.4s" begin="0.7s" repeatCount="indefinite"/></polygon>
+<polygon points="205,170 205,190 187,201 169,190 169,170 187,159" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="5.7s" begin="0.6s" repeatCount="indefinite"/></polygon>
+<polygon points="496,170 496,190 478,201 460,190 460,170 478,159" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="3.4s" begin="3.2s" repeatCount="indefinite"/></polygon>
+<polygon points="579,170 579,190 561,201 543,190 543,170 561,159" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="5.9s" begin="3.3s" repeatCount="indefinite"/></polygon>
+<polygon points="621,170 621,190 603,201 585,190 585,170 603,159" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="4.1s" begin="2.6s" repeatCount="indefinite"/></polygon>
+<polygon points="787,170 787,190 769,201 751,190 751,170 769,159" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="3.4s" begin="2.2s" repeatCount="indefinite"/></polygon>
+<polygon points="829,170 829,190 811,201 792,190 792,170 811,159" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="5.9s" begin="0.1s" repeatCount="indefinite"/></polygon>
+<polygon points="870,170 870,190 852,201 834,190 834,170 852,159" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="4.6s" begin="2.6s" repeatCount="indefinite"/></polygon>
+<polygon points="912,170 912,190 894,201 876,190 876,170 894,159" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="4.3s" begin="3.7s" repeatCount="indefinite"/></polygon>
+<polygon points="995,170 995,190 977,201 959,190 959,170 977,159" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="5.5s" begin="3.5s" repeatCount="indefinite"/></polygon>
+<polygon points="1120,170 1120,190 1102,201 1083,190 1083,170 1102,159" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="3.8s" begin="0.8s" repeatCount="indefinite"/></polygon>
+<polygon points="18,206 18,226 0,237 -18,226 -18,206 -0,195" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="3.7s" begin="1.2s" repeatCount="indefinite"/></polygon>
+<polygon points="226,206 226,226 208,237 190,226 190,206 208,195" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="3.8s" begin="2.3s" repeatCount="indefinite"/></polygon>
+<polygon points="268,206 268,226 249,237 231,226 231,206 249,195" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="3.4s" begin="1.7s" repeatCount="indefinite"/></polygon>
+<polygon points="475,206 475,226 457,237 439,226 439,206 457,195" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="4.1s" begin="3.6s" repeatCount="indefinite"/></polygon>
+<polygon points="600,206 600,226 582,237 564,226 564,206 582,195" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="4.8s" begin="1.8s" repeatCount="indefinite"/></polygon>
+<polygon points="683,206 683,226 665,237 647,226 647,206 665,195" fill="#818cf8" stroke="#c7d2fe" opacity="0"><animate attributeName="opacity" values="0;.85;0" dur="4.3s" begin="3.6s" repeatCount="indefinite"/></polygon>
+</g>
+<polygon points="116,45 116,75 90,90 64,75 64,45 90,30" fill="none" stroke="#67e8f9" stroke-width="1.5" opacity=".4"><animate attributeName="opacity" values=".2;.8;.2" dur="6s" begin="0s" repeatCount="indefinite"/></polygon>
+<polygon points="1139,133 1139,167 1110,184 1081,167 1081,133 1110,116" fill="none" stroke="#67e8f9" stroke-width="1.5" opacity=".4"><animate attributeName="opacity" values=".2;.8;.2" dur="6s" begin="2s" repeatCount="indefinite"/></polygon>
+<polygon points="1026,31 1026,49 1010,58 994,49 994,31 1010,22" fill="none" stroke="#67e8f9" stroke-width="1.5" opacity=".4"><animate attributeName="opacity" values=".2;.8;.2" dur="6s" begin="4s" repeatCount="indefinite"/></polygon>
+<polygon points="204,162 204,178 190,186 176,178 176,162 190,154" fill="none" stroke="#67e8f9" stroke-width="1.5" opacity=".4"><animate attributeName="opacity" values=".2;.8;.2" dur="6s" begin="1s" repeatCount="indefinite"/></polygon>
+<polygon points="79,149 79,171 60,182 41,171 41,149 60,138" fill="none" stroke="#67e8f9" stroke-width="1.5" opacity=".4"><animate attributeName="opacity" values=".2;.8;.2" dur="6s" begin="3s" repeatCount="indefinite"/></polygon>
+<polygon points="1167,50 1167,70 1150,80 1133,70 1133,50 1150,40" fill="none" stroke="#67e8f9" stroke-width="1.5" opacity=".4"><animate attributeName="opacity" values=".2;.8;.2" dur="6s" begin="5s" repeatCount="indefinite"/></polygon>
+<g text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<text x="600" y="104" font-size="54" font-weight="700" fill="url(#tx)" filter="url(#gl)">Goutham Retheesh</text>
+<text x="600" y="142" font-size="19" fill="#c7d2fe" letter-spacing="3">SOFTWARE DEVELOPER | AI &amp; ML ENGINEER</text>
+<rect x="500" y="158" width="200" height="3" rx="1.5" fill="url(#tx)"><animate attributeName="width" values="0;200;200" keyTimes="0;.3;1" dur="6s" repeatCount="indefinite"/></rect>
+</g>
 </svg>
