@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Goutham Retheesh - Software Developer | AI & ML Engineer"/>
+<img src="./banner_1.svg" width="100%" alt="Goutham Retheesh - Software Developer | AI & ML Engineer"/>
 
 <a href="https://github.com/Goutham-VR">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building+RAG+%26+Agentic+AI+Applications;FastAPI+%2B+Next.js+%2B+Django+%2B+Supabase;LLMs+%7C+Vector+Databases+%7C+Computer+Vision+%7C+NLP;From+Model+Training+to+Production+Deployment;Turning+Ideas+Into+Intelligent+Systems" alt="Typing SVG" />
