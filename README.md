@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Goutham%20Retheesh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="./banner.svg" width="100%" alt="Goutham Retheesh - Software Developer | AI & ML Engineer"/>
 
 <a href="https://github.com/Goutham-VR">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building+RAG+%26+Agentic+AI+Applications;FastAPI+%2B+Next.js+%2B+Django+%2B+Supabase;LLMs+%7C+Vector+Databases+%7C+Computer+Vision+%7C+NLP;From+Model+Training+to+Production+Deployment;Turning+Ideas+Into+Intelligent+Systems" alt="Typing SVG" />
